@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//resources/application.properties=UTF-8
+encoding//resources/log4j.properties=UTF-8
+encoding//resources/messages/messages_en.properties=UTF-8
+encoding//resources/messages/messages_zh.properties=UTF-8
+encoding//target/quick-build-opensource/build/production/app/WEB-INF/classes/application.properties=UTF-8
+encoding//target/quick-build-opensource/build/production/app/WEB-INF/classes/log4j.properties=UTF-8
+encoding/<project>=UTF-8
+encoding/JavaSource=UTF-8
